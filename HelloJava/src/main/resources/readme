@@ -1,0 +1,2 @@
+# run Main class
+mvn exec:java -Dexec.mainClass="org.alex.hellojava.Main"
